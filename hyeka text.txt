@@ -1,0 +1,3 @@
+Hyeka Text
+-membuat website portfolio
+-belajar node.js
